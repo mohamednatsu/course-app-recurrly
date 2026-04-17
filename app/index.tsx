@@ -30,7 +30,7 @@ export default function App() {
 
       <Link
         href={"/subscriptions/123"}
-        className="mt-4 rounded bg-green-500 text-white p-4"
+        className="mt-4 rounded bg-green-500 text-black p-4"
       >
         Go to Subscriptions Details
       </Link>
